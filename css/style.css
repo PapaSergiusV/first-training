@@ -6,6 +6,7 @@ body {
 	background-color: #83AFD9;
 	text-align: center;
 	padding: 20px;
+	min-height: calc(100vh - 40px);
 }
 
 #tableContainer > table {
